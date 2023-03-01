@@ -23,7 +23,7 @@
 <br>
 <p>Some statistics:</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandraS02&layout=compact)](https://github.com/AlexandraS02/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandraS02&exclude_repo=github-readme-stats,AlexandraS02.github.io)](https://github.com/AlexandraS02/github-readme-stats)
 
 [![codewars](https://www.codewars.com/users/AlexaSamson0203/badges/large)](https://www.codewars.com/users/AlexaSamson0203) 
 
